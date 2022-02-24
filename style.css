@@ -6,14 +6,16 @@ body{
   align-items: center;
   justify-content: center;
   justify-items: center;
-  background: linear-gradient(to bottom, rgb(68, 111, 219), #fdfdfe)
+  background: linear-gradient(to bottom, #bacdfe, #fdfdfe)
 }
 
 .chart-music{
   display: grid;
+  padding-bottom: 50px;
+
 }
 
 .img-canva{
   width: 350px;
-  margin-bottom: -4px;
+  margin-bottom: -0.5px;
 }
